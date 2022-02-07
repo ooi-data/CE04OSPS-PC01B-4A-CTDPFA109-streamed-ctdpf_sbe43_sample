@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE04OSPS-PC01B-4A-CTDPFA109-streamed-ctdpf_sbe43_sample
-last_request: '2022-01-21T18:33:22.834556Z'
+last_request: '2022-02-07T17:49:57.284352Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSPS-PC01B-4A-CTDPFA109-streamed-ctdpf_sbe43_sample/main/history/response.json
-status: success
+status: pending
