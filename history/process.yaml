@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSPS-PC01B-4A-CTDPFA109-streamed-ctdpf_sbe43_sample
 data_stream: CE04OSPS-PC01B-4A-CTDPFA109-streamed-ctdpf_sbe43_sample
 end_date: '2018-10-10T23:59:59.323Z'
-last_updated: '2022-01-22T02:58:55.873085'
+last_updated: '2022-02-09T05:57:21.305925Z'
 start_date: '2018-09-12T23:59:59.959Z'
-status: success
+status: pending
